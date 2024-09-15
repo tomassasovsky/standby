@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732172910549",
+    "project_id": "standby-flutter",
+    "storage_bucket": "standby-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732172910549:android:7ae2d0ee9916be470b475c",
+        "android_client_info": {
+          "package_name": "dev.aquiles.standby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpszUKwZnevwaKFyQjWSiAWoP9HxN20Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
