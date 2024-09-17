@@ -11,7 +11,7 @@ dependencies:
   bloc: ^8.1.4
   cupertino_clock: ^0.1.0+1
   device_calendar: ^4.3.2
-  firebase_analytics: ^11.3.1
+  firebase_analytics: ^11.3.2
   firebase_core: ^3.4.1
   firebase_crashlytics: ^4.1.1
   flutter:
